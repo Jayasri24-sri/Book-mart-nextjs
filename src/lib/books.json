@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "slug": "atomic-habits",
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "price": 12.99,
+    "genre": "Self Help",
+    "image": "/books/atomic-habits.png",
+    "rating": 4.8,
+    "description": "Tiny Changes, Remarkable Results."
+  },
+  {
+    "id": "2",
+    "slug": "deep-work",
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "price": 14.99,
+    "genre": "Productivity",
+    "image": "/books/deep-work.png",
+    "rating": 4.7,
+    "description": "Rules for Focused Success in a Distracted World."
+  },
+  {
+    "id": "3",
+    "slug": "ai-superpowers",
+    "title": "AI Superpowers",
+    "author": "Kai-Fu Lee",
+    "price": 15.50,
+    "genre": "Artificial Intelligence",
+    "image": "/books/ai-superpowers.png",
+    "rating": 4.6,
+    "description": "China, Silicon Valley, and the New World Order of AI."
+  },
+  {
+    "id": "4",
+    "slug": "java-full-stack",
+    "title": "Java Full Stack Development",
+    "author": "Mark Winter",
+    "price": 18.75,
+    "genre": "Programming",
+    "image": "/books/java-fullstack.jpeg",
+    "rating": 4.4,
+    "description": "Mastering full stack Java development using Spring Boot, React, and REST APIs."
+  },
+  {
+    "id": "5",
+    "slug": "python-crash-course",
+    "title": "Python Crash Course",
+    "author": "Eric Matthes",
+    "price": 14.99,
+    "genre": "Programming",
+    "image": "/books/python-crash-course.webp",
+    "rating": 4.9,
+    "description": "A hands-on, project-based introduction to programming with Python."
+  },
+  {
+    "id": "6",
+    "slug": "aws-certified-solutions",
+    "title": "AWS Certified Solutions Architect",
+    "author": "Ben Piper",
+    "price": 19.25,
+    "genre": "Cloud Computing",
+    "image": "/books/aws.webp",
+    "rating": 4.7,
+    "description": "Official Study Guide for the AWS Solutions Architect Associate exam."
+  }
+]
