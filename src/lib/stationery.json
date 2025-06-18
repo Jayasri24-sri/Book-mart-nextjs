@@ -1,0 +1,42 @@
+[
+  {
+    "id": "s1",
+    "slug": "notebook-a5",
+    "title": "A5 Spiral Notebook",
+    "price": 3.50,
+    "genre": "Stationery",
+    "image": "/items/notebook.webp",
+    "rating": 4.5,
+    "description": "160 pages, ruled paper, ideal for notes."
+  },
+  {
+    "id": "s2",
+    "slug": "gel-pen-pack",
+    "title": "Gel Pen Set - 10 Colors",
+    "price": 5.99,
+    "genre": "Stationery",
+    "image": "/items/pen.webp",
+    "rating": 4.4,
+    "description": "Smooth writing, vibrant ink colors."
+  },
+  {
+    "id": "s3",
+    "slug": "sticky-notes",
+    "title": "Sticky Notes - 400 Sheets",
+    "price": 2.49,
+    "genre": "Stationery",
+    "image": "/items/stickynote.webp",
+    "rating": 4.6,
+    "description": "Multi-color sticky notes for reminders and memos."
+  },
+  {
+    "id": "s4",
+    "slug": "highlighter-set",
+    "title": "Highlighter Set - 6 Pack",
+    "price": 4.25,
+    "genre": "Stationery",
+    "image": "/items/highlighter.webp",
+    "rating": 4.7,
+    "description": "Bright, long-lasting highlighters with chisel tip."
+  }
+]

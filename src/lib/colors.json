@@ -1,0 +1,42 @@
+[
+  {
+    "id": "c1",
+    "slug": "watercolor-set",
+    "title": "Watercolor Paint Set",
+    "price": 7.99,
+    "genre": "Colors",
+    "image": "/items/watercolor.webp",
+    "rating": 4.6,
+    "description": "24 vivid colors with brush included."
+  },
+  {
+    "id": "c2",
+    "slug": "color-pencils",
+    "title": "Colored Pencils - 36 Pack",
+    "price": 6.49,
+    "genre": "Colors",
+    "image": "/items/coloredpencil.webp",
+    "rating": 4.7,
+    "description": "Premium color pencils for drawing and coloring."
+  },
+  {
+    "id": "c3",
+    "slug": "clay",
+    "title": "Clay Set",
+    "price": 9.99,
+    "genre": "Colors",
+    "image": "/items/clay.webp",
+    "rating": 4.8,
+    "description": "Clays of high-quality"
+  },
+  {
+    "id": "c4",
+    "slug": "oilpastel",
+    "title": "Oil Pastel",
+    "price": 4.29,
+    "genre": "Colors",
+    "image": "/items/oilpastel.webp",
+    "rating": 4.5,
+    "description": "Oil pastel with a wide color variety."
+  }
+]
